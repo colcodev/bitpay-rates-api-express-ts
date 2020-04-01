@@ -184,6 +184,11 @@ binary-extensions@^2.0.0:
   resolved "https://registry.yarnpkg.com/binary-extensions/-/binary-extensions-2.0.0.tgz#23c0df14f6a88077f5f986c0d167ec03c3d5537c"
   integrity sha512-Phlt0plgpIIBOGTT/ehfFnbNlfsDEiqmzE2KRXoX1bLIlir4X/MR+zSyBEkL05ffWgnRSf/DXv+WrUAVr93/ow==
 
+bitpay-rates@^0.2.9:
+  version "0.2.9"
+  resolved "https://registry.yarnpkg.com/bitpay-rates/-/bitpay-rates-0.2.9.tgz#d0e4e151a09d51629df6d0da196a38c8df964a98"
+  integrity sha512-24IF1SevylJUfqw34wpX+G96a+TT1u+SMMARVFZ+dwpJ/0FKqAkpPUDZOS3NHf1B3C8I9hjPHbTE/SQfyni09Q==
+
 bl@^2.2.0:
   version "2.2.0"
   resolved "https://registry.yarnpkg.com/bl/-/bl-2.2.0.tgz#e1a574cdf528e4053019bb800b041c0ac88da493"
