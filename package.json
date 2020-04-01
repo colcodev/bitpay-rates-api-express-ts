@@ -4,7 +4,8 @@
   "description": "Express REST API to implement the bitpay-rates module using TypeScript.",
   "main": "./dist/index.js",
   "scripts": {
-    "dev": "concurrently \"tsc -w\" \"nodemon dist/index.js\""
+    "dev": "concurrently \"tsc -w\" \"nodemon dist/index.js\"",
+    "build": "tsc"
   },
   "repository": {
     "type": "git",
