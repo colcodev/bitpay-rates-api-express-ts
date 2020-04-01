@@ -1,0 +1,31 @@
+{
+  "name": "bitpay-rates-api-express-ts",
+  "version": "0.0.1",
+  "description": "Express REST API to implement the bitpay-rates module using TypeScript.",
+  "main": "./dist/index.js",
+  "scripts": {
+    "dev": "concurrently \"tsc -w\" \"nodemon dist/index.js\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/colcodev/bitpay-rates-api-express-ts.git"
+  },
+  "keywords": [
+    "bitpay",
+    "rates",
+    "express",
+    "typescript",
+    "api"
+  ],
+  "author": "Mario Colque <colquemario@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/colcodev/bitpay-rates-api-express-ts/issues"
+  },
+  "homepage": "https://github.com/colcodev/bitpay-rates-api-express-ts#readme",
+  "devDependencies": {
+    "concurrently": "^5.1.0",
+    "nodemon": "^2.0.2",
+    "typescript": "^3.8.3"
+  }
+}
